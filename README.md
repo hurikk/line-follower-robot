@@ -6,6 +6,7 @@ Esse robô tem como finalidade seguir uma linha de tons escuros (quanto mais pr�
 
 ## Techs
 
+* [Arduino IDE](https://docs.arduino.cc/software/ide/#ide-v1): Ambiente de desenvolvimento que utiliza uma sintaxe de C/C++;
 * [Arduino UNO](https://docs.arduino.cc/hardware/uno-rev3/): Placa microcontrolada utilizada para atribuir condições de funcionamento aos componentes;
 * [2 Motores DC](https://www.eletrogate.com/motores-dc#:~:text=Motores%20DC%3A%20S%C3%A3o%20motores%20mais,que%20existe%20dentro%20do%20motor.): Componentes que realizam o movimento do robô;
 * [Módulo Ponte H Dupla L298N](https://www.eletrogate.com/ponte-h-dupla-l298n?srsltid=AfmBOoq96OTkz9Uq8why3yEvzWdSEzsFIvvH-37Rrsql3tbSSVu1jCGy): Componente responsável pelo controle de velocidade e da direção dos 2 motores DC;
